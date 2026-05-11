@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Class02.Abstractions/Class02.Abstractions.csproj" />
+  <Project Path="Domain/Domain.csproj" />
+</Solution>

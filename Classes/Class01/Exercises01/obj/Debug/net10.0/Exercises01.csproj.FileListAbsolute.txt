@@ -1,0 +1,14 @@
+C:\Users\code\Desktop\advanced-csharp\Classes\Class01\Exercises01\bin\Debug\net10.0\Exercises01.exe
+C:\Users\code\Desktop\advanced-csharp\Classes\Class01\Exercises01\bin\Debug\net10.0\Exercises01.deps.json
+C:\Users\code\Desktop\advanced-csharp\Classes\Class01\Exercises01\bin\Debug\net10.0\Exercises01.runtimeconfig.json
+C:\Users\code\Desktop\advanced-csharp\Classes\Class01\Exercises01\bin\Debug\net10.0\Exercises01.dll
+C:\Users\code\Desktop\advanced-csharp\Classes\Class01\Exercises01\bin\Debug\net10.0\Exercises01.pdb
+C:\Users\code\Desktop\advanced-csharp\Classes\Class01\Exercises01\obj\Debug\net10.0\Exercises01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Desktop\advanced-csharp\Classes\Class01\Exercises01\obj\Debug\net10.0\Exercises01.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\advanced-csharp\Classes\Class01\Exercises01\obj\Debug\net10.0\Exercises01.AssemblyInfo.cs
+C:\Users\code\Desktop\advanced-csharp\Classes\Class01\Exercises01\obj\Debug\net10.0\Exercises01.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\advanced-csharp\Classes\Class01\Exercises01\obj\Debug\net10.0\Exercises01.dll
+C:\Users\code\Desktop\advanced-csharp\Classes\Class01\Exercises01\obj\Debug\net10.0\refint\Exercises01.dll
+C:\Users\code\Desktop\advanced-csharp\Classes\Class01\Exercises01\obj\Debug\net10.0\Exercises01.pdb
+C:\Users\code\Desktop\advanced-csharp\Classes\Class01\Exercises01\obj\Debug\net10.0\Exercises01.genruntimeconfig.cache
+C:\Users\code\Desktop\advanced-csharp\Classes\Class01\Exercises01\obj\Debug\net10.0\ref\Exercises01.dll

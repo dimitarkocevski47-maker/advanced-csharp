@@ -1,0 +1,14 @@
+C:\Users\code\Desktop\advanced-csharp\Classes\Class01\Class01.StaticRecap\bin\Debug\net10.0\Class01.StaticRecap.exe
+C:\Users\code\Desktop\advanced-csharp\Classes\Class01\Class01.StaticRecap\bin\Debug\net10.0\Class01.StaticRecap.deps.json
+C:\Users\code\Desktop\advanced-csharp\Classes\Class01\Class01.StaticRecap\bin\Debug\net10.0\Class01.StaticRecap.runtimeconfig.json
+C:\Users\code\Desktop\advanced-csharp\Classes\Class01\Class01.StaticRecap\bin\Debug\net10.0\Class01.StaticRecap.dll
+C:\Users\code\Desktop\advanced-csharp\Classes\Class01\Class01.StaticRecap\bin\Debug\net10.0\Class01.StaticRecap.pdb
+C:\Users\code\Desktop\advanced-csharp\Classes\Class01\Class01.StaticRecap\obj\Debug\net10.0\Class01.StaticRecap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Desktop\advanced-csharp\Classes\Class01\Class01.StaticRecap\obj\Debug\net10.0\Class01.StaticRecap.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\advanced-csharp\Classes\Class01\Class01.StaticRecap\obj\Debug\net10.0\Class01.StaticRecap.AssemblyInfo.cs
+C:\Users\code\Desktop\advanced-csharp\Classes\Class01\Class01.StaticRecap\obj\Debug\net10.0\Class01.StaticRecap.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\advanced-csharp\Classes\Class01\Class01.StaticRecap\obj\Debug\net10.0\Class01.StaticRecap.dll
+C:\Users\code\Desktop\advanced-csharp\Classes\Class01\Class01.StaticRecap\obj\Debug\net10.0\refint\Class01.StaticRecap.dll
+C:\Users\code\Desktop\advanced-csharp\Classes\Class01\Class01.StaticRecap\obj\Debug\net10.0\Class01.StaticRecap.pdb
+C:\Users\code\Desktop\advanced-csharp\Classes\Class01\Class01.StaticRecap\obj\Debug\net10.0\Class01.StaticRecap.genruntimeconfig.cache
+C:\Users\code\Desktop\advanced-csharp\Classes\Class01\Class01.StaticRecap\obj\Debug\net10.0\ref\Class01.StaticRecap.dll

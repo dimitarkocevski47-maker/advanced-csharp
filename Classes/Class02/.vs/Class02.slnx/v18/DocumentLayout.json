@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B57AD93-50A6-48ED-B88D-A13CBACE0C47}|Class02.Abstractions\\Class02.Abstractions.csproj|c:\\users\\code\\desktop\\advanced-csharp\\classes\\class02\\class02.abstractions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B57AD93-50A6-48ED-B88D-A13CBACE0C47}|Class02.Abstractions\\Class02.Abstractions.csproj|solutionrelative:class02.abstractions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD3E23D-D30D-4756-B73C-534D0244A02B}|Domain\\Domain.csproj|c:\\users\\code\\desktop\\advanced-csharp\\classes\\class02\\domain\\models\\devops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD3E23D-D30D-4756-B73C-534D0244A02B}|Domain\\Domain.csproj|solutionrelative:domain\\models\\devops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD3E23D-D30D-4756-B73C-534D0244A02B}|Domain\\Domain.csproj|c:\\users\\code\\desktop\\advanced-csharp\\classes\\class02\\domain\\interfaces\\ioperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD3E23D-D30D-4756-B73C-534D0244A02B}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ioperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD3E23D-D30D-4756-B73C-534D0244A02B}|Domain\\Domain.csproj|c:\\users\\code\\desktop\\advanced-csharp\\classes\\class02\\domain\\models\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD3E23D-D30D-4756-B73C-534D0244A02B}|Domain\\Domain.csproj|solutionrelative:domain\\models\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD3E23D-D30D-4756-B73C-534D0244A02B}|Domain\\Domain.csproj|c:\\users\\code\\desktop\\advanced-csharp\\classes\\class02\\domain\\interfaces\\itester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD3E23D-D30D-4756-B73C-534D0244A02B}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\itester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD3E23D-D30D-4756-B73C-534D0244A02B}|Domain\\Domain.csproj|c:\\users\\code\\desktop\\advanced-csharp\\classes\\class02\\domain\\interfaces\\ideveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD3E23D-D30D-4756-B73C-534D0244A02B}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ideveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD3E23D-D30D-4756-B73C-534D0244A02B}|Domain\\Domain.csproj|c:\\users\\code\\desktop\\advanced-csharp\\classes\\class02\\domain\\models\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD3E23D-D30D-4756-B73C-534D0244A02B}|Domain\\Domain.csproj|solutionrelative:domain\\models\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD3E23D-D30D-4756-B73C-534D0244A02B}|Domain\\Domain.csproj|c:\\users\\code\\desktop\\advanced-csharp\\classes\\class02\\domain\\models\\qaengineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD3E23D-D30D-4756-B73C-534D0244A02B}|Domain\\Domain.csproj|solutionrelative:domain\\models\\qaengineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD3E23D-D30D-4756-B73C-534D0244A02B}|Domain\\Domain.csproj|c:\\users\\code\\desktop\\advanced-csharp\\classes\\class02\\domain\\baseentity\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD3E23D-D30D-4756-B73C-534D0244A02B}|Domain\\Domain.csproj|solutionrelative:domain\\baseentity\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD3E23D-D30D-4756-B73C-534D0244A02B}|Domain\\Domain.csproj|c:\\users\\code\\desktop\\advanced-csharp\\classes\\class02\\domain\\interfaces\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD3E23D-D30D-4756-B73C-534D0244A02B}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD3E23D-D30D-4756-B73C-534D0244A02B}|Domain\\Domain.csproj|c:\\users\\code\\desktop\\advanced-csharp\\classes\\class02\\domain\\models\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD3E23D-D30D-4756-B73C-534D0244A02B}|Domain\\Domain.csproj|solutionrelative:domain\\models\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class02\\Class02.Abstractions\\Program.cs",
+              "RelativeDocumentMoniker": "Class02.Abstractions\\Program.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class02\\Class02.Abstractions\\Program.cs",
+              "RelativeToolTip": "Class02.Abstractions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T15:51:02.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class02\\Domain\\BaseEntity\\Person.cs",
+              "RelativeDocumentMoniker": "Domain\\BaseEntity\\Person.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class02\\Domain\\BaseEntity\\Person.cs",
+              "RelativeToolTip": "Domain\\BaseEntity\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T16:04:22.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPerson.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class02\\Domain\\Interfaces\\IPerson.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IPerson.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class02\\Domain\\Interfaces\\IPerson.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T17:54:41.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class02\\Domain\\Models\\Developer.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Developer.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class02\\Domain\\Models\\Developer.cs",
+              "RelativeToolTip": "Domain\\Models\\Developer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T15:54:54.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDeveloper.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class02\\Domain\\Interfaces\\IDeveloper.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IDeveloper.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class02\\Domain\\Interfaces\\IDeveloper.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IDeveloper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T17:45:50.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QAEngineer.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class02\\Domain\\Models\\QAEngineer.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\QAEngineer.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class02\\Domain\\Models\\QAEngineer.cs",
+              "RelativeToolTip": "Domain\\Models\\QAEngineer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T15:57:15.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tester.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class02\\Domain\\Models\\Tester.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Tester.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class02\\Domain\\Models\\Tester.cs",
+              "RelativeToolTip": "Domain\\Models\\Tester.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T15:56:42.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITester.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class02\\Domain\\Interfaces\\ITester.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ITester.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class02\\Domain\\Interfaces\\ITester.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ITester.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T18:23:24.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Operations.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class02\\Domain\\Models\\Operations.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Operations.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class02\\Domain\\Models\\Operations.cs",
+              "RelativeToolTip": "Domain\\Models\\Operations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T15:55:51.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOperations.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class02\\Domain\\Interfaces\\IOperations.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IOperations.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class02\\Domain\\Interfaces\\IOperations.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T18:29:07.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DevOps.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class02\\Domain\\Models\\DevOps.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\DevOps.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class02\\Domain\\Models\\DevOps.cs",
+              "RelativeToolTip": "Domain\\Models\\DevOps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T15:55:24.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
