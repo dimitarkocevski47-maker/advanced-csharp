@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6A45D6-60F1-4DB6-A657-1314CA0B5019}|Class03.StaticClass\\Class03.StaticClass.csproj|c:\\users\\code\\desktop\\advanced-csharp\\classes\\class03\\class03.staticclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6A45D6-60F1-4DB6-A657-1314CA0B5019}|Class03.StaticClass\\Class03.StaticClass.csproj|solutionrelative:class03.staticclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6A45D6-60F1-4DB6-A657-1314CA0B5019}|Class03.StaticClass\\Class03.StaticClass.csproj|c:\\users\\code\\desktop\\advanced-csharp\\classes\\class03\\class03.staticclass\\ordersstaticdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6A45D6-60F1-4DB6-A657-1314CA0B5019}|Class03.StaticClass\\Class03.StaticClass.csproj|solutionrelative:class03.staticclass\\ordersstaticdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6A45D6-60F1-4DB6-A657-1314CA0B5019}|Class03.StaticClass\\Class03.StaticClass.csproj|c:\\users\\code\\desktop\\advanced-csharp\\classes\\class03\\class03.staticclass\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6A45D6-60F1-4DB6-A657-1314CA0B5019}|Class03.StaticClass\\Class03.StaticClass.csproj|solutionrelative:class03.staticclass\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6A45D6-60F1-4DB6-A657-1314CA0B5019}|Class03.StaticClass\\Class03.StaticClass.csproj|c:\\users\\code\\desktop\\advanced-csharp\\classes\\class03\\class03.staticclass\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6A45D6-60F1-4DB6-A657-1314CA0B5019}|Class03.StaticClass\\Class03.StaticClass.csproj|solutionrelative:class03.staticclass\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6A45D6-60F1-4DB6-A657-1314CA0B5019}|Class03.StaticClass\\Class03.StaticClass.csproj|c:\\users\\code\\desktop\\advanced-csharp\\classes\\class03\\class03.staticclass\\helpers\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6A45D6-60F1-4DB6-A657-1314CA0B5019}|Class03.StaticClass\\Class03.StaticClass.csproj|solutionrelative:class03.staticclass\\helpers\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersStaticDB.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class03\\Class03.StaticClass\\OrdersStaticDB.cs",
+              "RelativeDocumentMoniker": "Class03.StaticClass\\OrdersStaticDB.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class03\\Class03.StaticClass\\OrdersStaticDB.cs",
+              "RelativeToolTip": "Class03.StaticClass\\OrdersStaticDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T16:32:02.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class03\\Class03.StaticClass\\Program.cs",
+              "RelativeDocumentMoniker": "Class03.StaticClass\\Program.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class03\\Class03.StaticClass\\Program.cs",
+              "RelativeToolTip": "Class03.StaticClass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T15:58:23.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class03\\Class03.StaticClass\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Class03.StaticClass\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class03\\Class03.StaticClass\\Models\\Order.cs",
+              "RelativeToolTip": "Class03.StaticClass\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T15:59:12.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class03\\Class03.StaticClass\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Class03.StaticClass\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class03\\Class03.StaticClass\\Models\\User.cs",
+              "RelativeToolTip": "Class03.StaticClass\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T15:59:04.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleHelper.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class03\\Class03.StaticClass\\Helpers\\ConsoleHelper.cs",
+              "RelativeDocumentMoniker": "Class03.StaticClass\\Helpers\\ConsoleHelper.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class03\\Class03.StaticClass\\Helpers\\ConsoleHelper.cs",
+              "RelativeToolTip": "Class03.StaticClass\\Helpers\\ConsoleHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T16:14:37.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
