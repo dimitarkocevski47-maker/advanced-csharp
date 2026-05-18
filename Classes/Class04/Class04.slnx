@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Class04.Generics/Class04.Generics.csproj" />
+  <Project Path="ExtensionMethods/ExtensionMethods.csproj" Id="db707fdc-72ad-417d-be45-6543e4b2d2f4" />
+</Solution>

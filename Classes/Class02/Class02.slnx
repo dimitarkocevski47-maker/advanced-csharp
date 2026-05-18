@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="Class02.Abstractions/Class02.Abstractions.csproj" />
+  <Project Path="Class02.BoxingUnboxing/Class02.BoxingUnboxing.csproj" Id="967d9ee4-b688-40c3-8c2a-f133fc081b0d" />
   <Project Path="Domain/Domain.csproj" />
 </Solution>

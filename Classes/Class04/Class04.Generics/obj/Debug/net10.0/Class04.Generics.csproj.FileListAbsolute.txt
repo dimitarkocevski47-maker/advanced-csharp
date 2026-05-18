@@ -1,0 +1,15 @@
+C:\Users\code\Desktop\advanced-csharp\Classes\Class04\Class04.Generics\bin\Debug\net10.0\Class04.Generics.exe
+C:\Users\code\Desktop\advanced-csharp\Classes\Class04\Class04.Generics\bin\Debug\net10.0\Class04.Generics.deps.json
+C:\Users\code\Desktop\advanced-csharp\Classes\Class04\Class04.Generics\bin\Debug\net10.0\Class04.Generics.runtimeconfig.json
+C:\Users\code\Desktop\advanced-csharp\Classes\Class04\Class04.Generics\bin\Debug\net10.0\Class04.Generics.dll
+C:\Users\code\Desktop\advanced-csharp\Classes\Class04\Class04.Generics\bin\Debug\net10.0\Class04.Generics.pdb
+C:\Users\code\Desktop\advanced-csharp\Classes\Class04\Class04.Generics\obj\Debug\net10.0\Class04.Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Desktop\advanced-csharp\Classes\Class04\Class04.Generics\obj\Debug\net10.0\Class04.Generics.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\advanced-csharp\Classes\Class04\Class04.Generics\obj\Debug\net10.0\Class04.Generics.AssemblyInfo.cs
+C:\Users\code\Desktop\advanced-csharp\Classes\Class04\Class04.Generics\obj\Debug\net10.0\Class04.Generics.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\advanced-csharp\Classes\Class04\Class04.Generics\obj\Debug\net10.0\Class04.Generics.sourcelink.json
+C:\Users\code\Desktop\advanced-csharp\Classes\Class04\Class04.Generics\obj\Debug\net10.0\Class04.Generics.dll
+C:\Users\code\Desktop\advanced-csharp\Classes\Class04\Class04.Generics\obj\Debug\net10.0\refint\Class04.Generics.dll
+C:\Users\code\Desktop\advanced-csharp\Classes\Class04\Class04.Generics\obj\Debug\net10.0\Class04.Generics.pdb
+C:\Users\code\Desktop\advanced-csharp\Classes\Class04\Class04.Generics\obj\Debug\net10.0\Class04.Generics.genruntimeconfig.cache
+C:\Users\code\Desktop\advanced-csharp\Classes\Class04\Class04.Generics\obj\Debug\net10.0\ref\Class04.Generics.dll
