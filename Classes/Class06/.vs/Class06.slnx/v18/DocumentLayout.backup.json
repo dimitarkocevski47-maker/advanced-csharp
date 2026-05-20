@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A34A6821-1525-4C3E-B262-55C0BC84A414}|AnonymousMethods\\AnonymousMethods.csproj|c:\\users\\code\\desktop\\advanced-csharp\\classes\\class06\\anonymousmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34A6821-1525-4C3E-B262-55C0BC84A414}|AnonymousMethods\\AnonymousMethods.csproj|solutionrelative:anonymousmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34A6821-1525-4C3E-B262-55C0BC84A414}|AnonymousMethods\\AnonymousMethods.csproj|c:\\users\\code\\desktop\\advanced-csharp\\classes\\class06\\anonymousmethods\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34A6821-1525-4C3E-B262-55C0BC84A414}|AnonymousMethods\\AnonymousMethods.csproj|solutionrelative:anonymousmethods\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class06\\AnonymousMethods\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "AnonymousMethods\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class06\\AnonymousMethods\\Models\\Person.cs",
+              "RelativeToolTip": "AnonymousMethods\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T16:30:13.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class06\\AnonymousMethods\\Program.cs",
+              "RelativeDocumentMoniker": "AnonymousMethods\\Program.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class06\\AnonymousMethods\\Program.cs",
+              "RelativeToolTip": "AnonymousMethods\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T15:51:46.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

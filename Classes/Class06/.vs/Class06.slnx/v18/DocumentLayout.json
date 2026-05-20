@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92F8E07A-75AD-4B24-A9D1-E6F1B6070949}|LinqMethods\\LinqMethods.csproj|c:\\users\\code\\desktop\\advanced-csharp\\classes\\class06\\linqmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F8E07A-75AD-4B24-A9D1-E6F1B6070949}|LinqMethods\\LinqMethods.csproj|solutionrelative:linqmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F8E07A-75AD-4B24-A9D1-E6F1B6070949}|LinqMethods\\LinqMethods.csproj|c:\\users\\code\\desktop\\advanced-csharp\\classes\\class06\\linqmethods\\data\\sedc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F8E07A-75AD-4B24-A9D1-E6F1B6070949}|LinqMethods\\LinqMethods.csproj|solutionrelative:linqmethods\\data\\sedc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F8E07A-75AD-4B24-A9D1-E6F1B6070949}|LinqMethods\\LinqMethods.csproj|c:\\users\\code\\desktop\\advanced-csharp\\classes\\class06\\linqmethods\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F8E07A-75AD-4B24-A9D1-E6F1B6070949}|LinqMethods\\LinqMethods.csproj|solutionrelative:linqmethods\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F8E07A-75AD-4B24-A9D1-E6F1B6070949}|LinqMethods\\LinqMethods.csproj|c:\\users\\code\\desktop\\advanced-csharp\\classes\\class06\\linqmethods\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F8E07A-75AD-4B24-A9D1-E6F1B6070949}|LinqMethods\\LinqMethods.csproj|solutionrelative:linqmethods\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F8E07A-75AD-4B24-A9D1-E6F1B6070949}|LinqMethods\\LinqMethods.csproj|c:\\users\\code\\desktop\\advanced-csharp\\classes\\class06\\linqmethods\\entities\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F8E07A-75AD-4B24-A9D1-E6F1B6070949}|LinqMethods\\LinqMethods.csproj|solutionrelative:linqmethods\\entities\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F8E07A-75AD-4B24-A9D1-E6F1B6070949}|LinqMethods\\LinqMethods.csproj|c:\\users\\code\\desktop\\advanced-csharp\\classes\\class06\\linqmethods\\helpers\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F8E07A-75AD-4B24-A9D1-E6F1B6070949}|LinqMethods\\LinqMethods.csproj|solutionrelative:linqmethods\\helpers\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F8E07A-75AD-4B24-A9D1-E6F1B6070949}|LinqMethods\\LinqMethods.csproj|c:\\users\\code\\desktop\\advanced-csharp\\classes\\class06\\linqmethods\\helpers\\listhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F8E07A-75AD-4B24-A9D1-E6F1B6070949}|LinqMethods\\LinqMethods.csproj|solutionrelative:linqmethods\\helpers\\listhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class06\\LinqMethods\\Program.cs",
+              "RelativeDocumentMoniker": "LinqMethods\\Program.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class06\\LinqMethods\\Program.cs",
+              "RelativeToolTip": "LinqMethods\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:33:46.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListHelper.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class06\\LinqMethods\\Helpers\\ListHelper.cs",
+              "RelativeDocumentMoniker": "LinqMethods\\Helpers\\ListHelper.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class06\\LinqMethods\\Helpers\\ListHelper.cs",
+              "RelativeToolTip": "LinqMethods\\Helpers\\ListHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:40:31.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsoleHelper.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class06\\LinqMethods\\Helpers\\ConsoleHelper.cs",
+              "RelativeDocumentMoniker": "LinqMethods\\Helpers\\ConsoleHelper.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class06\\LinqMethods\\Helpers\\ConsoleHelper.cs",
+              "RelativeToolTip": "LinqMethods\\Helpers\\ConsoleHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:39:43.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class06\\LinqMethods\\Entities\\Subject.cs",
+              "RelativeDocumentMoniker": "LinqMethods\\Entities\\Subject.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class06\\LinqMethods\\Entities\\Subject.cs",
+              "RelativeToolTip": "LinqMethods\\Entities\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:38:49.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class06\\LinqMethods\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "LinqMethods\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class06\\LinqMethods\\Entities\\Student.cs",
+              "RelativeToolTip": "LinqMethods\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:38:19.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class06\\LinqMethods\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "LinqMethods\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class06\\LinqMethods\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "LinqMethods\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:37:43.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SEDC.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class06\\LinqMethods\\Data\\SEDC.cs",
+              "RelativeDocumentMoniker": "LinqMethods\\Data\\SEDC.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class06\\LinqMethods\\Data\\SEDC.cs",
+              "RelativeToolTip": "LinqMethods\\Data\\SEDC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:36:59.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+﻿using System;
+
+namespace TaxiManager9000.Domain.Models
+{
+    public enum Role
+    {
+        Administrator,
+        Manager,
+        Maintenance
+    }
+
+    public class User
+    {
+        public int Id { get; set; }
+        public string Username { get; set; } = string.Empty;
+        public string Password { get; set; } = string.Empty;
+        public Role Role { get; set; }
+    }
+}
