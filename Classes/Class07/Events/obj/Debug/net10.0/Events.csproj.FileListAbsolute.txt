@@ -1,0 +1,15 @@
+C:\Users\code\Desktop\advanced-csharp\Classes\Class07\Events\bin\Debug\net10.0\Events.exe
+C:\Users\code\Desktop\advanced-csharp\Classes\Class07\Events\bin\Debug\net10.0\Events.deps.json
+C:\Users\code\Desktop\advanced-csharp\Classes\Class07\Events\bin\Debug\net10.0\Events.runtimeconfig.json
+C:\Users\code\Desktop\advanced-csharp\Classes\Class07\Events\bin\Debug\net10.0\Events.dll
+C:\Users\code\Desktop\advanced-csharp\Classes\Class07\Events\bin\Debug\net10.0\Events.pdb
+C:\Users\code\Desktop\advanced-csharp\Classes\Class07\Events\obj\Debug\net10.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Desktop\advanced-csharp\Classes\Class07\Events\obj\Debug\net10.0\Events.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\advanced-csharp\Classes\Class07\Events\obj\Debug\net10.0\Events.AssemblyInfo.cs
+C:\Users\code\Desktop\advanced-csharp\Classes\Class07\Events\obj\Debug\net10.0\Events.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\advanced-csharp\Classes\Class07\Events\obj\Debug\net10.0\Events.sourcelink.json
+C:\Users\code\Desktop\advanced-csharp\Classes\Class07\Events\obj\Debug\net10.0\Events.dll
+C:\Users\code\Desktop\advanced-csharp\Classes\Class07\Events\obj\Debug\net10.0\refint\Events.dll
+C:\Users\code\Desktop\advanced-csharp\Classes\Class07\Events\obj\Debug\net10.0\Events.pdb
+C:\Users\code\Desktop\advanced-csharp\Classes\Class07\Events\obj\Debug\net10.0\Events.genruntimeconfig.cache
+C:\Users\code\Desktop\advanced-csharp\Classes\Class07\Events\obj\Debug\net10.0\ref\Events.dll
