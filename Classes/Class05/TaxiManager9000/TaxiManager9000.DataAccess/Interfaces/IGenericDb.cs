@@ -1,7 +1,13 @@
-﻿namespace TaxiManager9000.DataAccess.Interfaces
+﻿using TaxiManager9000.Domain.Base;
+
+namespace TaxiManager9000.DataAccess.Interfaces
 {
-    public interface IGenericDb<T>
+    public interface IGenericDb<T> where T : BaseEntity
     {
-        
+        List<T> GetAll();
+        T GetById(int id);
+        int Add(T entity);
+        bool Update(T entity);
+        bool RemoveById(int id);
     }
 }

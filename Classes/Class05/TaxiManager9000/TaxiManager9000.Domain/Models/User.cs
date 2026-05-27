@@ -1,13 +1,12 @@
-using System;
-using TaxiManager9000.Domain.Enums;
-using TaxiManager9000.Domain.Base;
+namespace TaxiManager9000.Domain.Models;
 
-namespace TaxiManager9000.Domain.Models
+using TaxiManager9000.Domain.Base;
+using TaxiManager9000.Domain.Base;
+using TaxiManager9000.Domain.Enums;
+
+public class User : BaseEntity
 {
-    public class User : BaseEntity
-    {
-        public string Username { get; set; } = string.Empty;
-        public string Password { get; set; } = string.Empty;
-        public Role Role { get; set; }
-    }
+    public string Username { get; set; } = string.Empty;
+    public string Password { get; set; } = string.Empty;
+    public Role Role { get; set; }
 }

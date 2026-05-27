@@ -1,11 +1,46 @@
 {
   "version": 4,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "TaxiManager9000.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/TaxiManager9000.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaxiManager9000.Domain.dll": {}
+        }
+      },
+      "TaxiManager9000.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/TaxiManager9000.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaxiManager9000.Services.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "TaxiManager9000.Domain/1.0.0": {
+      "type": "project",
+      "path": "../TaxiManager9000.Domain/TaxiManager9000.Domain.csproj",
+      "msbuildProject": "../TaxiManager9000.Domain/TaxiManager9000.Domain.csproj"
+    },
+    "TaxiManager9000.Services/1.0.0": {
+      "type": "project",
+      "path": "../TaxiManager9000.Services/TaxiManager9000.Services.csproj",
+      "msbuildProject": "../TaxiManager9000.Services/TaxiManager9000.Services.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "TaxiManager9000.Domain >= 1.0.0",
+      "TaxiManager9000.Services >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\code\\.nuget\\packages\\": {},
@@ -39,7 +74,14 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class05\\TaxiManager9000\\TaxiManager9000.Domain\\TaxiManager9000.Domain.csproj": {
+              "projectPath": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class05\\TaxiManager9000\\TaxiManager9000.Domain\\TaxiManager9000.Domain.csproj"
+            },
+            "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class05\\TaxiManager9000\\TaxiManager9000.Services\\TaxiManager9000.Services.csproj": {
+              "projectPath": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class05\\TaxiManager9000\\TaxiManager9000.Services\\TaxiManager9000.Services.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

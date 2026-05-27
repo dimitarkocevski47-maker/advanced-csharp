@@ -1,14 +1,12 @@
-using System;
-using System.Collections.Generic;
+namespace TaxiManager9000.Domain.Models;
+
+using TaxiManager9000.Domain.Base;
 using TaxiManager9000.Domain.Base;
 
-namespace TaxiManager9000.Domain.Models
+public class Car : BaseEntity
 {
-    public class Car : BaseEntity
-    {
-        public string Model { get; set; } = string.Empty;
-        public string LicensePlate { get; set; } = string.Empty;
-        public DateTime LicensePlateExpieryDate { get; set; }
-        public List<Driver> AsignedDrivers { get; set; } = new List<Driver>();
-    }
+    public string Model { get; set; } = string.Empty;
+    public string LicensePlate { get; set; } = string.Empty;
+    public DateTime LicensePlateExpieryDate { get; set; }
+    public List<Driver> AssignedDrivers { get; set; } = new();
 }

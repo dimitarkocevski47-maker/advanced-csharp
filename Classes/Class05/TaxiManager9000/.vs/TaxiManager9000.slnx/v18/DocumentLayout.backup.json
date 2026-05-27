@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class05\\TaxiManager9000\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FCA46B-251D-DD22-16A9-5309E304E661}|TaxiManager9000.DataAccess\\TaxiManager9000.DataAccess.csproj|c:\\users\\code\\desktop\\advanced-csharp\\classes\\class05\\taximanager9000\\taximanager9000.dataaccess\\interfaces\\igenericdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FCA46B-251D-DD22-16A9-5309E304E661}|TaxiManager9000.DataAccess\\TaxiManager9000.DataAccess.csproj|solutionrelative:taximanager9000.dataaccess\\interfaces\\igenericdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FCA46B-251D-DD22-16A9-5309E304E661}|TaxiManager9000.DataAccess\\TaxiManager9000.DataAccess.csproj|c:\\users\\code\\desktop\\advanced-csharp\\classes\\class05\\taximanager9000\\taximanager9000.dataaccess\\genericdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FCA46B-251D-DD22-16A9-5309E304E661}|TaxiManager9000.DataAccess\\TaxiManager9000.DataAccess.csproj|solutionrelative:taximanager9000.dataaccess\\genericdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39594887-4BEF-C03C-ABE8-573E1C6DC410}|TaxiManager9000.Domain\\TaxiManager9000.Domain.csproj|c:\\users\\code\\desktop\\advanced-csharp\\classes\\class05\\taximanager9000\\taximanager9000.domain\\baseentity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39594887-4BEF-C03C-ABE8-573E1C6DC410}|TaxiManager9000.Domain\\TaxiManager9000.Domain.csproj|solutionrelative:taximanager9000.domain\\baseentity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class05\\TaxiManager9000\\TaxiManager9000.Domain\\BaseEntity\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "TaxiManager9000.Domain\\BaseEntity\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class05\\TaxiManager9000\\TaxiManager9000.Domain\\BaseEntity\\BaseEntity.cs",
+              "RelativeToolTip": "TaxiManager9000.Domain\\BaseEntity\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T16:12:52.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericDb.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class05\\TaxiManager9000\\TaxiManager9000.DataAccess\\GenericDb.cs",
+              "RelativeDocumentMoniker": "TaxiManager9000.DataAccess\\GenericDb.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class05\\TaxiManager9000\\TaxiManager9000.DataAccess\\GenericDb.cs",
+              "RelativeToolTip": "TaxiManager9000.DataAccess\\GenericDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T18:47:12.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IGenericDb.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class05\\TaxiManager9000\\TaxiManager9000.DataAccess\\Interfaces\\IGenericDb.cs",
+              "RelativeDocumentMoniker": "TaxiManager9000.DataAccess\\Interfaces\\IGenericDb.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class05\\TaxiManager9000\\TaxiManager9000.DataAccess\\Interfaces\\IGenericDb.cs",
+              "RelativeToolTip": "TaxiManager9000.DataAccess\\Interfaces\\IGenericDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T18:47:54.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
