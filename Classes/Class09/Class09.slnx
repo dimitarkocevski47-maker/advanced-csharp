@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FileStreams/FileStreams.csproj" />
+  <Project Path="FileSystem/FileSystem.csproj" />
+</Solution>

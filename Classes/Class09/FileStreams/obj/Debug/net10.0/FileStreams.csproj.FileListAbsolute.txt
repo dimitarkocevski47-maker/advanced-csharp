@@ -1,0 +1,15 @@
+C:\Users\code\Desktop\advanced-csharp\Classes\Class09\FileStreams\bin\Debug\net10.0\FileStreams.exe
+C:\Users\code\Desktop\advanced-csharp\Classes\Class09\FileStreams\bin\Debug\net10.0\FileStreams.deps.json
+C:\Users\code\Desktop\advanced-csharp\Classes\Class09\FileStreams\bin\Debug\net10.0\FileStreams.runtimeconfig.json
+C:\Users\code\Desktop\advanced-csharp\Classes\Class09\FileStreams\bin\Debug\net10.0\FileStreams.dll
+C:\Users\code\Desktop\advanced-csharp\Classes\Class09\FileStreams\bin\Debug\net10.0\FileStreams.pdb
+C:\Users\code\Desktop\advanced-csharp\Classes\Class09\FileStreams\obj\Debug\net10.0\FileStreams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Desktop\advanced-csharp\Classes\Class09\FileStreams\obj\Debug\net10.0\FileStreams.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\advanced-csharp\Classes\Class09\FileStreams\obj\Debug\net10.0\FileStreams.AssemblyInfo.cs
+C:\Users\code\Desktop\advanced-csharp\Classes\Class09\FileStreams\obj\Debug\net10.0\FileStreams.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\advanced-csharp\Classes\Class09\FileStreams\obj\Debug\net10.0\FileStreams.sourcelink.json
+C:\Users\code\Desktop\advanced-csharp\Classes\Class09\FileStreams\obj\Debug\net10.0\FileStreams.dll
+C:\Users\code\Desktop\advanced-csharp\Classes\Class09\FileStreams\obj\Debug\net10.0\refint\FileStreams.dll
+C:\Users\code\Desktop\advanced-csharp\Classes\Class09\FileStreams\obj\Debug\net10.0\FileStreams.pdb
+C:\Users\code\Desktop\advanced-csharp\Classes\Class09\FileStreams\obj\Debug\net10.0\FileStreams.genruntimeconfig.cache
+C:\Users\code\Desktop\advanced-csharp\Classes\Class09\FileStreams\obj\Debug\net10.0\ref\FileStreams.dll
