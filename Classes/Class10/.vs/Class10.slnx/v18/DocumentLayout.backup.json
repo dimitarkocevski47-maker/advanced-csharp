@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16C27532-E77B-422C-8076-A800B4AE92C2}|Disposable\\Disposable.csproj|c:\\users\\code\\desktop\\advanced-csharp\\classes\\class10\\disposable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C27532-E77B-422C-8076-A800B4AE92C2}|Disposable\\Disposable.csproj|solutionrelative:disposable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class10\\Disposable\\Program.cs",
+              "RelativeDocumentMoniker": "Disposable\\Program.cs",
+              "ToolTip": "C:\\Users\\code\\Desktop\\advanced-csharp\\Classes\\Class10\\Disposable\\Program.cs*",
+              "RelativeToolTip": "Disposable\\Program.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T17:49:03.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

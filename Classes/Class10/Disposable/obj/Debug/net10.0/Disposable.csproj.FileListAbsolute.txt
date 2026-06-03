@@ -1,0 +1,15 @@
+C:\Users\code\Desktop\advanced-csharp\Classes\Class10\Disposable\bin\Debug\net10.0\Disposable.exe
+C:\Users\code\Desktop\advanced-csharp\Classes\Class10\Disposable\bin\Debug\net10.0\Disposable.deps.json
+C:\Users\code\Desktop\advanced-csharp\Classes\Class10\Disposable\bin\Debug\net10.0\Disposable.runtimeconfig.json
+C:\Users\code\Desktop\advanced-csharp\Classes\Class10\Disposable\bin\Debug\net10.0\Disposable.dll
+C:\Users\code\Desktop\advanced-csharp\Classes\Class10\Disposable\bin\Debug\net10.0\Disposable.pdb
+C:\Users\code\Desktop\advanced-csharp\Classes\Class10\Disposable\obj\Debug\net10.0\Disposable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Desktop\advanced-csharp\Classes\Class10\Disposable\obj\Debug\net10.0\Disposable.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\advanced-csharp\Classes\Class10\Disposable\obj\Debug\net10.0\Disposable.AssemblyInfo.cs
+C:\Users\code\Desktop\advanced-csharp\Classes\Class10\Disposable\obj\Debug\net10.0\Disposable.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\advanced-csharp\Classes\Class10\Disposable\obj\Debug\net10.0\Disposable.sourcelink.json
+C:\Users\code\Desktop\advanced-csharp\Classes\Class10\Disposable\obj\Debug\net10.0\Disposable.dll
+C:\Users\code\Desktop\advanced-csharp\Classes\Class10\Disposable\obj\Debug\net10.0\refint\Disposable.dll
+C:\Users\code\Desktop\advanced-csharp\Classes\Class10\Disposable\obj\Debug\net10.0\Disposable.pdb
+C:\Users\code\Desktop\advanced-csharp\Classes\Class10\Disposable\obj\Debug\net10.0\Disposable.genruntimeconfig.cache
+C:\Users\code\Desktop\advanced-csharp\Classes\Class10\Disposable\obj\Debug\net10.0\ref\Disposable.dll
