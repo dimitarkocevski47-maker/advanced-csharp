@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AdoNet.Demo/AdoNet.Demo.csproj" Id="8cd24350-6e87-4b06-ba7b-6a8b0e4a38bb" />
+  <Project Path="SerializationDeserialization.Demo/SerializationDeserialization.Demo.csproj" />
+</Solution>
