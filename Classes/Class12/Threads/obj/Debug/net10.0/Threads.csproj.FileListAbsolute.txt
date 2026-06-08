@@ -1,0 +1,15 @@
+C:\Users\code\Desktop\advanced-csharp\Classes\Class12\Threads\bin\Debug\net10.0\Threads.exe
+C:\Users\code\Desktop\advanced-csharp\Classes\Class12\Threads\bin\Debug\net10.0\Threads.deps.json
+C:\Users\code\Desktop\advanced-csharp\Classes\Class12\Threads\bin\Debug\net10.0\Threads.runtimeconfig.json
+C:\Users\code\Desktop\advanced-csharp\Classes\Class12\Threads\bin\Debug\net10.0\Threads.dll
+C:\Users\code\Desktop\advanced-csharp\Classes\Class12\Threads\bin\Debug\net10.0\Threads.pdb
+C:\Users\code\Desktop\advanced-csharp\Classes\Class12\Threads\obj\Debug\net10.0\Threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Desktop\advanced-csharp\Classes\Class12\Threads\obj\Debug\net10.0\Threads.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\advanced-csharp\Classes\Class12\Threads\obj\Debug\net10.0\Threads.AssemblyInfo.cs
+C:\Users\code\Desktop\advanced-csharp\Classes\Class12\Threads\obj\Debug\net10.0\Threads.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\advanced-csharp\Classes\Class12\Threads\obj\Debug\net10.0\Threads.sourcelink.json
+C:\Users\code\Desktop\advanced-csharp\Classes\Class12\Threads\obj\Debug\net10.0\Threads.dll
+C:\Users\code\Desktop\advanced-csharp\Classes\Class12\Threads\obj\Debug\net10.0\refint\Threads.dll
+C:\Users\code\Desktop\advanced-csharp\Classes\Class12\Threads\obj\Debug\net10.0\Threads.pdb
+C:\Users\code\Desktop\advanced-csharp\Classes\Class12\Threads\obj\Debug\net10.0\Threads.genruntimeconfig.cache
+C:\Users\code\Desktop\advanced-csharp\Classes\Class12\Threads\obj\Debug\net10.0\ref\Threads.dll
